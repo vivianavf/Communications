@@ -63,6 +63,10 @@
    - **File Type:** MP4 Video
    - **Participants:** Juan Carlos Carrillo (Product Owner), Viviana Vera, Juan Guadalupe, Jeremy Martinez, Juan Demera, Denisse Aguilera, Juan Gomez-Behr and Luis Felipe Gomez.
    - **Date and Time:** December 20th, 2023, 17h40.
+   -    - **Description:** Zoom meeting with Juan Carlos Carrillo (Product Owner) to review progress on the mobile application.
+   - **File Type:** MP4 Video
+   - **Participants:** Juan Carlos Carrillo (Product Owner), Viviana Vera, Juan Guadalupe, Jeremy Martinez, Juan Demera.
+   - **Date and Time:** December 4th, 2023, 21h19.
 
 
 11. **[Sprint with Client](https://espolec-my.sharepoint.com/:v:/g/personal/vivvfalcon_espol_edu_ec/EQ7FHxZTbSVIihT3AMg5_PYBeIRrJZWeBUbtkoLMel2Rog?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Q30c42)**
@@ -70,6 +74,10 @@
    - **File Type:** MP4 Video
    - **Participants:** Juan Carlos Carrillo (Product Owner), Viviana Vera, Juan Guadalupe, Jeremy Martinez, Juan Demera, final user.
    - **Date and Time:** January 8th, 2024, 10h00.
+   -    - **Description:** Zoom meeting with Juan Carlos Carrillo (Product Owner) to review progress on the mobile application.
+   - **File Type:** MP4 Video
+   - **Participants:** Juan Carlos Carrillo (Product Owner), Viviana Vera, Juan Guadalupe, Jeremy Martinez, Juan Demera.
+   - **Date and Time:** December 4th, 2023, 21h19.
 
 
 12. **[Sprint with Professor](https://espolec-my.sharepoint.com/:v:/g/personal/vivvfalcon_espol_edu_ec/EYX3oBbWeJVImWcRTdKsmsQBsKcT8lbRH0MC9-GDZ1735Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=x0YY1I)**
@@ -77,6 +85,10 @@
    - **File Type:** MP4 Video
    - **Participants:** Luis Mendoza, Viviana Vera, Juan Guadalupe, Jeremy Martinez, Juan Demera.
    - **Date and Time:** January 8th, 2024, 9h30.
+   -    - **Description:** Zoom meeting with Juan Carlos Carrillo (Product Owner) to review progress on the mobile application.
+   - **File Type:** MP4 Video
+   - **Participants:** Juan Carlos Carrillo (Product Owner), Viviana Vera, Juan Guadalupe, Jeremy Martinez, Juan Demera.
+   - **Date and Time:** December 4th, 2023, 21h19.
 
 
 ## Updates:
