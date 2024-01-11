@@ -68,7 +68,7 @@
 
 10. **[Sprint with Client](https://espolec-my.sharepoint.com/:v:/g/personal/vivvfalcon_espol_edu_ec/EQ7FHxZTbSVIihT3AMg5_PYBeIRrJZWeBUbtkoLMel2Rog?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Q30c42
 )**
-   - **Description:** Final Sprint with final user at ESPOL, showint all functionalities and final product.
+   - **Description:** Final Sprint with final user at ESPOL, showing all functionalities and final product.
    - **File Type:** MP4 Video
    - **Participants:** Juan Carlos Carrillo (Product Owner), Viviana Vera, Juan Guadalupe, Jeremy Martinez, Juan Demera, final user.
    - **Date and Time:** January 8th, 2024, 10h00.
