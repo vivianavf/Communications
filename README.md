@@ -52,13 +52,13 @@
    - **Participants:** Juan Carlos Carrillo (Product Owner), Viviana Vera, Juan Guadalupe, Jeremy Martinez, Juan Demera.
    - **Date and Time:** December 8th, 2023, 21h19.
 
-8. **[Mobile App Review with Product Owner](https://espolec-my.sharepoint.com/:v:/g/personal/vivvfalcon_espol_edu_ec/EdHqydo9fxdPn3ez34uezf8BGxGSlSF-5DwmBJpJ5bECwA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1B8yj8)**
+9. **[Mobile App Review with Product Owner](https://espolec-my.sharepoint.com/:v:/g/personal/vivvfalcon_espol_edu_ec/EdHqydo9fxdPn3ez34uezf8BGxGSlSF-5DwmBJpJ5bECwA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1B8yj8)**
    - **Description:** Zoom meeting with Juan Carlos Carrillo (Product Owner) to review progress on the mobile application.
    - **File Type:** MP4 Video
    - **Participants:** Juan Carlos Carrillo (Product Owner), Viviana Vera, Juan Guadalupe, Jeremy Martinez, Juan Demera.
    - **Date and Time:** December 4th, 2023, 21h19.
 
-9. **[Review with Final Client (Online)](https://espolec-my.sharepoint.com/:v:/g/personal/jaguadal_espol_edu_ec/EZCyUS4PEKxCn--K0r23D5YBPHfVOiV2Zi2wN83x6ramfg?e=TvxVDD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+10. **[Review with Final Client (Online)](https://espolec-my.sharepoint.com/:v:/g/personal/jaguadal_espol_edu_ec/EZCyUS4PEKxCn--K0r23D5YBPHfVOiV2Zi2wN83x6ramfg?e=TvxVDD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 )**
    - **Description:** Zoom meeting with Juan Carlos Carrillo (Product Owner), and Migo Ads members from Ecuador and Colombia: Denisse Aguilera, Juan Gomez-Behr and Luis Felipe Gomez to review progress on the mobile application.
    - **File Type:** MP4 Video
@@ -66,7 +66,7 @@
    - **Date and Time:** December 20th, 2023, 17h40.
 
 
-10. **[Sprint with Client](https://espolec-my.sharepoint.com/:v:/g/personal/vivvfalcon_espol_edu_ec/EQ7FHxZTbSVIihT3AMg5_PYBeIRrJZWeBUbtkoLMel2Rog?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Q30c42
+11. **[Sprint with Client](https://espolec-my.sharepoint.com/:v:/g/personal/vivvfalcon_espol_edu_ec/EQ7FHxZTbSVIihT3AMg5_PYBeIRrJZWeBUbtkoLMel2Rog?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Q30c42
 )**
    - **Description:** Final Sprint with final user at ESPOL, showing all functionalities and final product.
    - **File Type:** MP4 Video
@@ -74,7 +74,7 @@
    - **Date and Time:** January 8th, 2024, 10h00.
 
 
-11. **[Sprint with Professor](https://espolec-my.sharepoint.com/:v:/g/personal/vivvfalcon_espol_edu_ec/EYX3oBbWeJVImWcRTdKsmsQBsKcT8lbRH0MC9-GDZ1735Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=x0YY1I
+12. **[Sprint with Professor](https://espolec-my.sharepoint.com/:v:/g/personal/vivvfalcon_espol_edu_ec/EYX3oBbWeJVImWcRTdKsmsQBsKcT8lbRH0MC9-GDZ1735Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=x0YY1I
 )**
    - **Description:** Final Sprint at ESPOL with Professor. Review of database, concept, User Histories and other technical details.
    - **File Type:** MP4 Video
@@ -84,5 +84,5 @@
 
 ## Updates:
 - January 8th, 2024 - 13h21: Added Files (1-7) to the index.
-- January 10th, 2024 - 21h00: Added Files (8-11) to the index.
+- January 10th, 2024 - 21h00: Added Files (8-12) to the index.
 
