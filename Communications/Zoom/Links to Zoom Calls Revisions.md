@@ -16,8 +16,8 @@ Zoom calls through the semester with Product Owner and Final Client.
 )**
    - **Description:** Functionalities review.
    
-3. **[Revision with Final Client (Online)](https://espolec-my.sharepoint.com/:f:/g/personal/vivvfalcon_espol_edu_ec/En3YtqWY-gZHmqR2ohvH3lgBlAJMbXvojDYFX91qQKuQaA?e=4WGTsa
+3. **[Revision with Final Client (Online)](https://espolec-my.sharepoint.com/:v:/g/personal/jaguadal_espol_edu_ec/EZCyUS4PEKxCn--K0r23D5YBPHfVOiV2Zi2wN83x6ramfg?e=TvxVDD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 )**
-   - **Description:** Functionalities review.
+   - **Description:** Functionalities review with Migo Ads Client from Colombia.
    
    
