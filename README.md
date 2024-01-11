@@ -57,6 +57,10 @@
    - **File Type:** MP4 Video
    - **Participants:** Juan Carlos Carrillo (Product Owner), Viviana Vera, Juan Guadalupe, Jeremy Martinez, Juan Demera.
    - **Date and Time:** December 4th, 2023, 21h19.
+   -    - **Description:** Overview of the Whatsapp Group "IS2023 Brandeo Inteligente".
+   - **File Type:** JPEG Image
+   - **Participants:** Juan Carlos Carrillo (Product Owner), Viviana Vera, Juan Guadalupe, Jeremy Martinez, Juan Demera, Designer and other collaborators from Hangaroa.
+   - **Date and Time:** Screenshot taken at January 8th, 2024, 13h00.
 
 10. **[Review with Final Client (Online)](https://espolec-my.sharepoint.com/:v:/g/personal/jaguadal_espol_edu_ec/EZCyUS4PEKxCn--K0r23D5YBPHfVOiV2Zi2wN83x6ramfg?e=TvxVDD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
    - **Description:** Zoom meeting with Juan Carlos Carrillo (Product Owner), and Migo Ads members from Ecuador and Colombia: Denisse Aguilera, Juan Gomez-Behr and Luis Felipe Gomez to review progress on the mobile application.
